@@ -6,10 +6,6 @@
 - 📫 Reach me at **a.yalcinkaya0@gmail.com**
 
 
-
-<br>
-
-
 <br><br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AhmetYal" alt="AhmetYal" /></a> </p>
@@ -21,10 +17,6 @@
 </p>
 
 <br />
-<br />
-https://my-portfolio-ahmet.netlify.app/
-<br />
-
 
 <h3 align="left">Languages:</h3>
 <p align="left">
