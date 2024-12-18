@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on [Ekip.co](https://ekip.co/) 
+- 🔭 I’m currently working on [Kolaj.co](https://kolaj.co/) 
 - 💬 I'm currently programming with React.js
 - 📫 Reach me at **a.yalcinkaya0@gmail.com**
 
