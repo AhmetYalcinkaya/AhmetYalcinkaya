@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on [Kolaj.co](https://kolaj.co/) 
-- 💬 I'm currently programming with React.js
+- 💬 I'm currently programming with React.js, Next.js, Bubble.io, Flutter
 - 📫 Reach me at **a.yalcinkaya0@gmail.com**
 
 
